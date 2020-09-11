@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
   
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewpoint" content="width=device-width">
     <title>BACS 200 - Page Template</title>
- </head>
+</head>
  
  <body>
     <h1<HTML Page</h1>
