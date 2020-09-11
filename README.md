@@ -4,7 +4,7 @@
 <head>
    <meta charset="utf-8">
    <meta name="viewpoint" content="width=device-width">
-  <title>BACS 200 - Page Template</title>
+ <title>BACS 200 - Page Template</title>
 </head>
  
  <body>
