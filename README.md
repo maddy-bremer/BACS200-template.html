@@ -13,5 +13,5 @@
     <p>In my free time I love to go hiking in my free time. I love being in the outdoors and getting the chance to get out of Greeley and see the beautiful mountains. I am also thinking about getting a cat I think that they are easy to take care of and also fun.</p>
     </body>
     
-    </html>
+   </html>
     
